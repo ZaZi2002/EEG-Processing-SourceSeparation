@@ -1,4 +1,4 @@
-# EEG Signal Processing CHW3
+# EEG Signal Processing Source Separation
 
 ## Overview
 
